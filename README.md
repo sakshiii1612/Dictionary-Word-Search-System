@@ -100,15 +100,9 @@ Meaning : An electronic device that processes and stores data.
 - Add autocomplete and suggestions for misspelled words.
 - Use binary search on sorted data or hashing for faster lookup.
 
-## Team Members
-
-- Hassan Mohammad
-- Ritik Sagar
-- Mohammad Yawar
-- Sakshi Shrama (Team Lead)
-- Aniket Pandey
-- Vipin Yadav
-
 ## Note
 
 This is an educational group project created to practise C programming, structures, arrays, string handling, and searching concepts.
+
+GitHub link:
+https://github.com/sakshiii1612/Dictionary-Word-Search-System**
